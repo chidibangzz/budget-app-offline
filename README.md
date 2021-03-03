@@ -5,7 +5,7 @@ Have you ever been stuck without wifi on vacation? My budget app allows and indi
 ## Motivation
 Unfortunate situations happen where wifi is not available especially when on vacation. My goal was to make sure a person can keep up with there expenses online or offline.
 ## Screenshots
- ![budget-online.png]
+ <img src="budget-offline.png" alt="budgetpic" width="500" height="200">
 
 ## Tech/framework used
 node
@@ -28,6 +28,6 @@ Please feel free contritbute to my project by contacting me  A [contributing gui
 Ferdinand Aguwa
 
 ## License
-Javascript, Html, Jquery, mongodb, mongoose, bootsrap
+Javascript, Html, Jquery, mongodb, mongoose, bootsrap, javascript
 
 MIT © [Chidi Ekeke]()
